@@ -1,0 +1,66 @@
+body  
+{  
+    margin: 5px;  
+    padding: 5px;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+
+h4{  
+    margin: 5px;  
+    font-size: 50px;
+    padding: 5px;  
+    text-align: center;  
+    color: #277582;  
+    padding: 20px;  
+}  
+label{  
+    margin: 5px;  
+    padding: 5px;  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#Uname{  
+    margin: 5px;  
+    padding: 5px;  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#mainMenu{
+    margin: 5px;  
+    padding: 20px;  
+    display: flex;
+    height: 310px;
+    width: 25%;
+    flex-direction: column;
+    list-style-type: none;
+    margin: auto;
+    background-color: #277582;
+    float: center;
+}
+#loginButton{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 25%;
+    width: 50%;
+    align:right;
+}
+#Pass{  
+    margin: 5px;  
+    padding: 5px;  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#current{
+    color:blue;
+}
+p{
+    color:rgb(208, 226, 236);
+}
